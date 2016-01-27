@@ -1,0 +1,3 @@
+describe('BaseBoth', function() {
+
+});
