@@ -1,3 +1,5 @@
+Bases = new Mongo.Collection("Bases");
+
 Base.Query = {};
 
 Base.Query.findAll = function(){
